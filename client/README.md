@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# Unit 19 React Homework: Online Employee Directory
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ ![License](https://img.shields.io/badge/license-MIT-red) 
 
-## Available Scripts
+  
+ ## Table of Contents
+  
+* [Description](#Description)
+  
+* [Installation](#Installation)
+  
+* [Usage](#Usage)
+  
+* [License](#License)
+  
+* [Contributors](#Contributors)
+  
+* [Questions](#Questions)
+  
+ ## Description 
+  
+For this project I created an employee directory with React. TWhere I was required to break up the application's UI into components, manage component state, and respond to user events.
 
-In the project directory, you can run:
+The purpose of this project was to allow the employee or manager to benefit greatly from being able to view non-sensitive data about other employees. It is particularly helpful for them to be able to filter employees by name.
 
-### `npm start`
+PHOTO OF MY ASSIGNMENT:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br>![photo of my assignment](ET_photo.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[link to my project](https://budgettrackerrh.herokuapp.com/)
 
-### `npm run build`
+ ## Installation
+  
+ 💾 
+ RUN:
+  
+* npm i
+* npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    
+ ## Usage
+ 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ This  Online user Directory application allows users to:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  * Sort the table by at least one category
 
-### `npm run eject`
+  * Filter the users by at least one property.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<br>
+LANGUAGES USED ARE:
+<br>
+FRONT END:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+ ## License
+ To view the license click [here](https://choosealicense.com/licenses/mit/)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  
+ ## Contributors
+  
+ Contributions are accepted. Feel free to fork.
+1. Fork it
+2. Create your feature branch (git checkout -b feature/fooBar)
+3. Commit your changes (git commit -am 'Add some fooBar').
+4. Push to the branch (git push origin feature/fooBar)
+5. Create a new Pull Request# RfHogans
 
-## Learn More
+  
+  
+ ## Questions
+  
+ If you want have any additional questions, you can reach me at
+  
+ **Github**: https://github.com/rabiahfh
+  
+ **Email**: hogansrabiah@gmail.com
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+``

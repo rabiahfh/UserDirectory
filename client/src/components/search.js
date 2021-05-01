@@ -1,10 +1,10 @@
 import React from "react"
 
 // function
-function Search(){
+function Search(props){
     return (
         <form>
-            <input placeholder = "search for employee"/>
+            <input  onChange={props.handleInputChange}  name="search" value={props.search}  placeholder = "search for employee"/>
             
         </form>
 
