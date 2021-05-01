@@ -26,7 +26,7 @@ The purpose of this project was to allow the employee or manager to benefit grea
 PHOTO OF MY ASSIGNMENT:
 
 
-<br>![photo of my assignment](./client/ET_photo.png)
+<br>![photo of my assignment](ET_photo.png)
 
 
 [link to my project](https://budgettrackerrh.herokuapp.com/)
